@@ -15,7 +15,7 @@ conforme exemplo fornecido.
 
 
 |   Exemplo de Entrada  |     Exemplo de Saída    |
-| --------------------- |------------_------------|
+| --------------------- | ------------------------|
 | 576.73                | NOTAS:                  |
 |                       | 5 nota(s) de R$ 100.00  | 
 |                       | 1 nota(s) de R$ 50.00   |
@@ -31,4 +31,5 @@ conforme exemplo fornecido.
 |                       | 0 moeda(s) de R$ 0.05   |
 |                       | 3 moeda(s) de R$ 0.01   |
 
-Obs.: Utilize ponto (.) para separar a parte decimal.
+
+#### Obs.: Utilize ponto (.) para separar a parte decimal.
